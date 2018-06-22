@@ -1,0 +1,5 @@
+NOTES: 
+
+del_frac() doesn't like when I delete things chronologically, which is why in my tests I delete items starting from the 19th index and go backwards.
+
+To compile, I just used the given Makefile and change main5.out and main5.o to test[i] and test[i].o respectively.
